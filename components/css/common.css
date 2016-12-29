@@ -1,0 +1,99 @@
+/*
+ * Copyright (c) 2016.  Beijing Lianyu Technology Co. Ltd.
+ */
+
+.text-wrapper{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 100%;
+}
+
+.content-help{
+    font-size: 0.65em;
+    color: #999999;
+}
+
+.padding-top-4{
+    padding-top: 4px;
+}
+
+.padding-top-3{
+    padding-top: 3px;
+}
+
+.margin-right-35{
+    margin-right: 35px;
+}
+
+.margin-top-reverse-10{
+    margin-top: -10px;
+}
+
+.margin-top-30{
+    margin-top: 30px;
+}
+
+.empty-container{
+    width: 100%;
+    height: 40px;
+}
+
+.margin-right-10{
+    margin-right: 10px;
+}
+
+.margin-right-15{
+    margin-right: 15px;
+}
+
+.margin-right-0{
+    margin-right: 0;
+}
+
+.margin-bottom-20{
+    margin-bottom: 20px;
+}
+
+.margin-bottom-15{
+    margin-bottom: 15px;
+}
+
+.margin-left-25{
+    margin-left: 25px;
+}
+
+.block{
+    display: block;
+}
+
+.segment-dashed{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-bottom: dashed 1px #999999;
+}
+
+.segment-solid{
+    margin-top: 40px;
+    margin-bottom: 10px;
+    border-bottom: solid 1px #a0a0a0;
+}
+
+.common-border{
+    border: solid 1px #dddddd;
+}
+
+.common-content{
+    font-size: 0.9em;
+    padding: 20px 15px;
+    color: #acacac;
+}
+
+.common-border-c9{
+    border-color: #c9c9c9;
+}
+
+.error{
+    color: #aa1111;
+    font-size: 0.8em;
+}
